@@ -1,0 +1,354 @@
+publications:
+
+  since_join_ecnu:
+
+    - author: "Y. Xu, G. Li, S. Liang, G. D. Leener, M. Luhmer, R. Lavendomme,* E.-Q. Gao,* __D. Zhang__.*"
+      title: "Engineering cavity and aperture binding sites within a metal-organic cage for up- and down-regulation of catalysis"
+      journal: "Angew. Chem. Int. Ed."
+      year: 2025
+      doi: "10.1002/anie.202507981"
+      link: "https://onlinelibrary.wiley.com/doi/10.1002/anie.202507981"
+
+
+    - author: "D. Zong, Y. Liu, G. Li, C. Wu, R. Lavendomme, M. Xu, E.-Q. Gao,* __D. Zhang__,* M. He"
+      title: "Coordination cages equipped with reactivity of frustrated Lewis pairs for guest control"
+      journal: "CCS Chem."
+      year: 2025
+      doi: "10.31635/ccschem.025.202505607"
+      link: "https://www.chinesechemsoc.org/doi/full/10.31635/ccschem.025.202505607"
+
+    - author: "G. Li, Z. Du, C. Wu, Y. Liu, Y. Xu, R. Lavendomme, S. Liang, E.-Q. Gao,* __D. Zhang__*"
+      title: "Charge-transfer complexation of coordination cages for enhanced photochromism and photocatalysis"
+      journal: "Nat. Commun."
+      year: 2025
+      volume: 16
+      pages: 546
+      link: "https://www.nature.com/articles/s41467-025-55893-z"
+
+    - author: "Z. Du, G. Li, Y. Liu, Y. Xu, E.-Q. Gao,* __D. Zhang__.*"
+      title: "Turning substrates from electron-poor to electron-rich for nonsacrificial aerobic hydroxylation under visible light"
+      journal: "J. Catal."
+      year: 2025
+      volume: 442
+      pages: 115907
+      link: "https://www.sciencedirect.com/science/article/abs/pii/S0021951724006201?via%3Dihub"
+      id: "home_featured_pub_2025_442"
+
+    - author: "Y. Jiang, Y. Liu, G. Li, Y. Zhang, R. Lavendomme, __D. Zhang__,* E.-Q. Gao*"
+      title: "Chiral Pt(II)−V(V) bimetallic cages and guest-induced allosteric regulation of catalytic asymmetric sulfoxidation"
+      journal: "Inorg. Chem."
+      year: 2025
+      volume: 64
+      pages: 2591
+      link: "https://pubs.acs.org/doi/10.1021/acs.inorgchem.4c04559?ref=PDF"
+
+    - author: "T. Jin, K. Zeng, X. Zhang, W.-T. Dou,* L. Hu,* __D. Zhang__,* W. Zhu, X. Qian, H.-B. Yang, L. Xu*"
+      title: "Efficient self-sorting behaviours of metallacages with subtle structural differences"
+      journal: "Angew. Chem. Int. Ed."
+      year: 2024
+      volume: 136
+      pages: "e202409878"
+      link: "https://onlinelibrary.wiley.com/doi/10.1002/anie.202409878"
+
+    - author: "S. Guo, W.-W. Zhan, F.-L. Yang, J. Zhou, Y.-H. Duan, Y. Li, __D. Zhang__,* Y. Yang*"
+      title: "Enantiopure trigonal bipyramidal coordination cages templated by in situ self-organized anions"
+      journal: "Nat. Commun."
+      year: 2024
+      volume: 15
+      pages: 5628
+      link: "https://www.nature.com/articles/s41467-024-49964-w"
+      id: "home_featured_pub_2024_15"
+
+
+
+    - author: "X. Zhang, __D. Zhang__,* C. Wei, R. Lavendomme, S. Qi, Y. Zhu, J. Zhang, Y. Zhang, J. Wang, L. Xu, E.-Q. Gao, W. Yu, D. Wang,* H.-B. Yang,* M. He*"
+      title: "Coordination cages integrated into swelling poly(Ionic Liquid)s for guest encapsulation and separation"
+      journal: "Nat. Commun."
+      year: 2024
+      volume: 15
+      pages: 3766
+      link: "https://www.nature.com/articles/s41467-024-48135-1"
+
+    - author: "W. Zhou, R. Lavendomme,* __D. Zhang__*"
+      title: "Recent progress in iodine capture by macrocycles and cages"
+      journal: "Chem. Commun."
+      year: 2024
+      volume: 60
+      pages: 779
+      note: "Invited contribution for a themed Collection of [Supramolecular & Macrocyclic chemistry](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cc&themeid=77ed5894-d9f6-451c-9571-b29607ddc636)"
+      link: "https://pubs.rsc.org/en/content/articlelanding/2024/cc/d3cc05337g"
+
+    - author: "S.-L. Yang, X. Zhang, Q. Wang, C. Wu, H. Liu, D. Jiang, R. Lavendomme, __D. Zhang__,* E.-Q. Gao*"
+      title: "Confinement inside MOFs enables guest-modulated spin crossover of otherwise low-spin coordination cages"
+      journal: "JACS Au"
+      year: 2023
+      volume: 3
+      pages: 2183
+      link: "https://pubs.acs.org/doi/10.1021/jacsau.3c00243"
+
+    - author: "G. Li, T. K. Ronson, R. Lavendomme, Z. Huang, C. Fuertes-Espinosa, __D. Zhang__,* J. R. Nitschke*"
+      title: "Enantiopure FeII4L4 cages bind steroids stereoselectively"
+      journal: "Chem"
+      year: 2023
+      volume: 9
+      pages: 1549
+      link: "https://www.cell.com/chem/fulltext/S2451-9294(23)00130-4"
+
+    - author: "W. Xue, L. Pesce, A. Bellamkonda, T. K. Ronson, K. Wu, __D. Zhang__, N. Vanthuyne, T. Brotin, A. Martinez, G. M. Pavan,* J. R. Nitschke*"
+      title: "Subtle stereochemical effects influence binding and purification abilities of an FeII4L4 cage"
+      journal: "J. Am. Chem. Soc."
+      year: 2023
+      volume: 145
+      pages: 5570
+      link: "https://pubs.acs.org/doi/10.1021/jacs.3c00294"
+
+    - author: "__D. Zhang__,* H.-B. Yang*"
+      title: "Self-assembly of a large, closed capsule reminiscent of protein-cage formation"
+      journal: "Chem"
+      year: 2022
+      volume: 8
+      pages: 902
+      note: "A preview"
+      link: "https://www.sciencedirect.com/science/article/pii/S2451929422001486"
+
+    - author: "__D. Zhang__, Q. Gan, A. J. Plajer, R. Lavendomme, T. K. Ronson, Z. Lu, J. D. Jensen, Bo W. Laursen, J. R. Nitschke*"
+      title: "Templation and concentration drive conversion between a FeII12L12 pseudoicosahedron, a FeII4L4 tetrahedron, and a FeII2L3 helicate"
+      journal: "J. Am. Chem. Soc."
+      year: 2022
+      volume: 144
+      pages: 1106
+      link: "https://pubs.acs.org/doi/10.1021/jacs.1c11536"
+
+  prior_to_ecnu:
+
+    - author: "J.-L. Zhu,‡ __D. Zhang__,‡ (‡ equal contribution) T. K. Ronson, W. Wang, L. Xu,* H.-B. Yang,* J. R. Nitschke*"
+      title: "A cavity-tailored metal-organic cage entraps gases selectively in solution and the amorphous solid state"
+      journal: "Angew. Chem. Int. Ed."
+      year: 2021
+      volume: 60
+      pages: 11789
+      link: "https://onlinelibrary.wiley.com/doi/10.1002/anie.202102095"
+
+    - author: "__D. Zhang__, T. K. Ronson, Y.-Q. Zou, J. R. Nitschke*"
+      title: "Metal-organic cages for molecular separations"
+      journal: "Nat. Rev. Chem."
+      year: 2021
+      volume: 5
+      pages: 168
+      link: "https://www.nature.com/articles/s41570-020-00246-1"
+
+    - author: "Y.-Q. Zou,‡ __D. Zhang__,‡ (‡ equal contribution) T. K. Ronson, A. Tarzia, Z. Lu, K. E. Jelfs, J. R. Nitschke*"
+      title: "Sterics and hydrogen bonding control stereochemistry and self-sorting in BINOL-based assemblies"
+      journal: "J. Am. Chem. Soc."
+      year: 2021
+      volume: 143
+      pages: 9009
+      link: "https://pubs.acs.org/doi/10.1021/jacs.1c05172"
+
+    - author: "T. Ding, J. Zha, __D. Zhang__,* J. Zhang, H. Yuan, F. Xia,* G. Gao*"
+      title: "CO2 atmosphere enables efficient catalytic hydration of ethylene oxide by ionic liquids/organic bases at low water/epoxide ratios"
+      journal: "Green Chem."
+      year: 2021
+      volume: 23
+      pages: 3386
+      link: "https://pubs.rsc.org/en/content/articlelanding/2021/GC/D1GC00758K"
+
+    - author: "__D. Zhang__, T. K. Ronson, L. Xu, J. R. Nitschke*"
+      title: "Transformation network culminating in a heteroleptic Cd6L6L'2 twisted trigonal prism"
+      journal: "J. Am. Chem. Soc."
+      year: 2020
+      volume: 142
+      pages: 9152
+      link: "https://pubs.acs.org/doi/10.1021/jacs.0c03798"
+
+    - author: "L. Xu,‡ __D. Zhang__,‡ (‡ equal contribution) T. K. Ronson, J. R. Nitschke*"
+      title: "Improved acid resistance of a metal-organic cage enables cargo release and exchange between hosts"
+      journal: "Angew. Chem. Int. Ed."
+      year: 2020
+      volume: 59
+      pages: 7435
+      link: "https://onlinelibrary.wiley.com/doi/10.1002/anie.202001059"
+
+    - author: "L. Qin, H. Hu, __D. Zhang__,* T. Xue, G. Gao*"
+      title: "Control over the free space within poly(ionic liquid)s for selective adsorption of 'size-matching' dyes"
+      journal: "ACS Appl. Polym. Mater."
+      year: 2020
+      volume: 2
+      pages: 4864
+      link: "https://pubs.acs.org/doi/10.1021/acsapm.0c00798"
+
+    - author: "__D. Zhang__, T. K. Ronson, R. Lavendomme, J. R. Nitschke*"
+      title: "Selective separation of polyaromatic hydrocarbons by phase transfer of coordination cages"
+      journal: "J. Am. Chem. Soc."
+      year: 2019
+      volume: 141
+      pages: 18949
+      link: "https://pubs.acs.org/doi/10.1021/jacs.9b10741"
+
+    - author: "__D. Zhang__, T. K. Ronson, S. Güryel, J. Thoburn, D. J. Wales, J. R. Nitschke*"
+      title: "Temperature controls guest uptake and release from Zn4L4 tetrahedra"
+      journal: "J. Am. Chem. Soc."
+      year: 2019
+      volume: 141
+      pages: 14534
+      link: "https://pubs.acs.org/doi/10.1021/jacs.9b07307"
+
+    - author: "__D. Zhang__, T. K. Ronson, J. L. Greenfield, T. Brotin, P. Berthault, E. Leonce, J. Zhu, L. Xu, J. R. Nitschke*"
+      title: "Enantiopure [Cs+/Xe⊂cryptophane]⊂FeII4L4 hierarchical superstructures"
+      journal: "J. Am. Chem. Soc."
+      year: 2019
+      volume: 141
+      pages: 8339
+      link: "https://pubs.acs.org/doi/10.1021/jacs.9b02866"
+
+    - author: "__D. Zhang__, T. K. Ronson, J. R. Nitschke.*"
+      title: "Functional capsules via subcomponent self-assembly"
+      journal: "Acc. Chem. Res."
+      year: 2018
+      volume: 51
+      pages: 2423
+      link: "https://pubs.acs.org/doi/10.1021/acs.accounts.8b00303"
+
+    - author: "__D. Zhang__, T. K. Ronson, J. Mosquera, A. Martinez, J. R. Nitschke*"
+      title: "Selective anion extraction and recovery using a FeII4L4 cage"
+      journal: "Angew. Chem. Int. Ed."
+      year: 2018
+      volume: 57
+      pages: 3717
+      link: "https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201800459"
+
+    - author: "__D. Zhang__, A. Martinez,* J.-P. Dutasta*"
+      title: "Emergence of hemicryptophanes: from synthesis to applications for recognition, molecular machines and supramolecular catalysis"
+      journal: "Chem. Rev."
+      year: 2017
+      volume: 117
+      pages: 4900
+      link: "https://pubs.acs.org/doi/10.1021/acs.chemrev.6b00847"
+
+    - author: "__D. Zhang__, T. K. Ronson, J. Mosquera, A. Martinez,* L. Guy, J. R. Nitschke*"
+      title: "Anion binding in water drives structural adaptation in an azaphosphatrane-functionalized FeII4L4 tetrahedron"
+      journal: "J. Am. Chem. Soc."
+      year: 2017
+      volume: 139
+      pages: 6574
+      link: "https://pubs.acs.org/doi/10.1021/jacs.7b02950"
+
+    - author: "__D. Zhang__, K. Jamieson, L. Guy, G. Gao,* J.-P. Dutasta, A. Martinez*"
+      title: "Tailored oxido-vanadium(V) cage complexes for selective sulfoxidation in confined space"
+      journal: "Chem. Sci."
+      year: 2017
+      volume: 8
+      pages: 789
+      link: "https://pubs.rsc.org/en/content/articlelanding/2017/SC/C6SC03045A"
+
+    - author: "__D. Zhang__, J.-P. Dutasta, V. Dufaud, L. Guy, Alexandre Martinez*"
+      title: "Sulfoxidation inside a C3-vanadium(V) bowl-shaped catalyst"
+      journal: "ACS Catal."
+      year: 2017
+      volume: 7
+      pages: 7340
+      link: "https://pubs.acs.org/doi/10.1021/acscatal.7b01886"
+
+    - author: "__D. Zhang__, J. R. Cochrane, S. Di Pietro, L. Guy,* H. Gornitzka, J.-P. Dutasta,* A. Martinez*"
+      title: "Breathing motion of a modulable molecular cavity"
+      journal: "Chem. Eur. J."
+      year: 2017
+      volume: 23
+      pages: 6495
+      link: "https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.201700395"
+
+    - author: "__D. Zhang__, B. Bousquet, J.-C. Mulatier, D. Pitrat, M. Jean, N. Vanthuyne, L. Guy, J.-P. Dutasta, A. Martinez*"
+      title: "Synthesis, resolution and absolute configuration of chiral tris(2-pyridylmethyl)amine-based hemicryptophane molecular cages"
+      journal: "J. Org. Chem."
+      year: 2017
+      volume: 82
+      pages: 6082
+      link: "https://pubs.acs.org/doi/10.1021/acs.joc.7b00559"
+
+    - author: "__D. Zhang__, J.-C. Mulatier, J. R. Cochrane, L. Guy,* G. Gao, J.-P. Dutasta,* A. Martinez*"
+      title: "Helical, axial and central chirality combined in a single cage: synthesis, absolute configuration and recognition Properties"
+      journal: "Chem. Eur. J."
+      year: 2016
+      volume: 22
+      pages: 8038
+      link: "https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.201600664"
+
+    - author: "__D. Zhang__, D. Jardel, F. Peruch, N. Calin, V. Dufaud, J.-P. Dutasta, A. Martinez,* B. Bibal*"
+      title: "Azaphosphatranes as hydrogen-bonding organocatalysts for the activation of carbonyl group: investigation of lactide ring-opening polymerization"
+      journal: "Eur. J. Org. Chem."
+      year: 2016
+      pages: 1619
+      link: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/ejoc.201600080"
+
+    - author: "__D. Zhang__, G. Gao, L. Guy, V. Robert, J.-P. Dutasta,* A. Martinez*"
+      title: "A fluorescent heteroditopic hemicryptophane cage for the selective recognition of choline phosphate"
+      journal: "Chem. Commun."
+      year: 2015
+      volume: 51
+      pages: 2679
+      link: "https://pubs.rsc.org/en/content/articlelanding/2015/CC/C4CC09428J"
+
+    - author: "__D. Zhang__, B. Chatelet, E. Serrano, O. Perraud, J.-P. Dutasta, V. Robert,* A. Martinez*"
+      title: "Insights into the complexity of interfering weak interactions in host-guest systems"
+      journal: "ChemPhysChem"
+      year: 2015
+      volume: 16
+      pages: 2931
+      link: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.201500610"
+
+    - author: "__D. Zhang__,‡ H. Yang,‡ (‡ equal contribution) A. Martinez,* K. Jamieson, J.-P. Dutasta, G. Gao*"
+      title: "N-heterocyclic carbene formation induced fluorescent and colorimetric sensing of fluoride using perimidinium derivatives"
+      journal: "Chem. Eur. J."
+      year: 2014
+      volume: 20
+      pages: 17161
+      link: "https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.201404806"
+
+    - author: "__D. Zhang__, J. R. Cochrane, A. Martinez,* G. Gao*"
+      title: "Recent Advances in H2PO4– fluorescent sensors"
+      journal: "RSC Adv."
+      year: 2014
+      volume: 4
+      pages: 29735
+      link: "https://pubs.rsc.org/en/content/articlelanding/2014/RA/C4RA02828G"
+
+    - author: "__D. Zhang__,‡ X. Jiang,‡ (‡ equal contribution) H. Yang, Z. Su, E. Gao, A. Martinez,* G. Gao*"
+      title: "Novel benzimidazolium-urea-based macrocyclic fluorescent sensors: synthesis, ratiometric sensing of H2PO4– and improvement of the anion binding performance via synergistic binding strategy"
+      journal: "Chem. Commun."
+      year: 2013
+      volume: 49
+      pages: 6149
+      link: "https://pubs.rsc.org/en/content/articlelanding/2013/CC/c3cc43184c"
+
+    - author: "__D. Zhang__, X. Jiang, H. Yang, A. Martinez,* M. Feng, Z. Dong, G. Gao*"
+      title: "Acridine-based macrocyclic fluorescent sensors: self-assembly behavior characterized by crystal structures and tunable bathochromic-shift in emission induced by H2PO4– via adjusting the ring size and rigidity"
+      journal: "Org. Biomol. Chem."
+      year: 2013
+      volume: 11
+      pages: 3375
+      link: "https://pubs.rsc.org/en/content/articlelanding/2013/OB/c3ob27500k"
+
+    - author: "__D. Zhang__, H. Zhang, L. Tian, L. Wang, F. Fang, K. Liu, Z. Wu*"
+      title: "Microfabrication-free fused silica nanofluidic interface for on chip electrokinetic stacking of DNA"
+      journal: "Microfluid. Nanofluid."
+      year: 2013
+      volume: 14
+      pages: 69
+      link: "https://link.springer.com/article/10.1007/s10404-012-1023-6"
+
+    - author: "__D. Zhang__, Z. Dong, X. Jiang, M. Feng, W. Li,* G. Gao*"
+      title: "A proof-of-concept fluorescent strategy for highly selective detection of Cr(VI) based on inner filter effect using a hydrophilic ionic chemosensor"
+      journal: "Anal. Methods"
+      year: 2013
+      volume: 5
+      pages: 1669
+      link: "https://pubs.rsc.org/en/content/articlelanding/2013/AY/c3ay26555b"
+
+    - author: "__D. Zhang__, X. Jiang, Z. Dong, H. Yang, A. Martinez, G. Gao*"
+      title: "A bifunctional acridine-based fluorescent sensor: ratiometric sensing of H2PO4– and obvious fluorescence quenching towards HSO4– through a synergistic binding effect of benzimidazolium and urea moieties"
+      journal: "Tetrahedron"
+      year: 2013
+      volume: 69
+      pages: 10457
+      link: "https://www.sciencedirect.com/science/article/pii/S0040402013015056"
+      id: "home_featured_pub_2013_69"

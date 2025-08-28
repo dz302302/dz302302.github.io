@@ -1,0 +1,425 @@
+// Override this file to add your own SCSS styling.
+
+$bg-primary-color: #05336b;
+$text-primary-color: #343a40;
+
+
+html {
+  font-size: 17px;
+  color: $text-primary-color;
+}
+
+
+
+h1,h2,h3,h4,h5,h6 {
+  color: $text-primary-color;
+}
+h1, h2 {
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+
+
+.navbar {
+  height: 62px;
+  background-color: $bg-primary-color;
+  box-shadow: unset;
+  font-size: 1rem;
+  .navbar-brand {
+    color: #fff;
+    font-weight: 400;
+    font-size: 1.25rem;
+  }
+
+  .navbar-nav .nav-link {
+    color:  #fff;
+  }
+
+  .navbar-toggler {
+    color:  #fff;
+  }
+
+
+}
+#navbar-main .navbar-nav .nav-link.active, #navbar-main .navbar-nav .nav-link:hover, #navbar-main .navbar-nav .nav-link:focus {
+  color: #adc3f4;
+}
+#navbar-main .main-menu-item ul li .nav-link {
+  color: #fff;
+}
+@media (max-width: 767.98px) {
+  .navbar-collapse {
+    background-color: $bg-primary-color;
+  }
+}
+
+
+
+
+
+.home-section {
+  padding: 1.7rem 0 2rem 0;
+}
+.home-section:nth-of-type(even) {
+  // background: #f7f7f7;
+  background: rgb(247, 249, 251);
+  border-top: 1px solid #dee2e6;
+  border-bottom: 1px solid #dee2e6;
+  padding: 0.75rem 0 2rem 0;
+}
+
+
+.common-page-h1-title {
+  font-size: 2rem;
+}
+.common-page-subtitle {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+.common-page-h2-title {
+  font-size: 1.65rem;
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: .5rem;
+}
+
+.card-center {
+  text-align: center;
+}
+
+.card {
+  border: 1px solid rgba(0, 0, 0, 0.176);
+}
+
+
+
+.btn-action {
+  min-width: 165px;
+  border-radius: 30px;
+  border: none;
+  font-size: 1.25rem;
+  padding:0.5rem 1rem ;
+  line-height: 1.87rem;
+}
+.btn-action-primary {
+  color: white;
+  background-color: #1D3A83 !important;
+}
+.read-more-btn-wrap {
+  margin: 2rem 0 0 0;
+  text-align: center;
+}
+
+.home-section-about-lab{
+ .lab-title {
+   font-size: 1.78rem;
+   font-weight: bold;
+ }
+ .lab-intro {
+   font-size: 1.18rem;
+ }
+
+  .lab-left {
+    text-align: center;
+  }
+}
+
+
+
+.research-list-page, #research {
+  .research-list-wrap {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    // padding: 10px;
+
+    //.card-simple:first-of-type {
+    //  margin-top: 20px !important;
+    //}
+    .card-simple  {
+      margin-top: 0 !important;
+      border: 1px solid rgba(0, 0, 0, 0.176);
+      border-radius: unset;
+    }
+  }
+
+  .common-page-h2-title {
+    margin: 0 0 1rem 0;
+  }
+  .section-heading h1 {
+    margin: 20px 0 10px 0;
+  }
+  .article-title a {
+    color: $text-primary-color;
+    font-size: 1.1rem;
+  }
+
+  .card-simple .article-style  {
+    font-size: 0.9rem;
+    text-align: justify;
+  }
+}
+
+
+.publications-list-page {
+
+  .pub-list-item {
+    margin: 0 0 1rem 0;
+
+    a {
+      color: $text-primary-color !important;
+      text-decoration: underline;
+    }
+    .pub-item-link {
+      display: block;
+
+    }
+    .pub-title-text, .pub-journal-text {
+      font-style: italic;
+    }
+    .pub-journal-text {
+      font-weight: bold;
+    }
+  }
+}
+
+.news-list-page {
+  .news-list-wrap {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  .news-list-item {
+    border-top: 1px solid #dee2e6;
+    margin: 0 0 1rem 0;
+    padding: 1rem 0 0.2rem 0;
+
+    a {
+      color: $text-primary-color !important;
+    }
+
+
+  }
+}
+.article-news {
+  .detail-date {
+      padding: 1rem 0;
+  }
+  .news-sep-line {
+    border-top: 1px solid #dee2e6;
+    padding: 1rem 0;
+  }
+}
+
+.article-contact-us {
+  a {
+    color: $text-primary-color !important;
+    text-decoration: underline;
+  }
+}
+
+.people-list-wrap {
+
+
+
+  .quarto-grid-item {
+    margin-bottom: 1rem;
+    display: block;
+  }
+
+  .card {
+    .post-contents {
+      text-align: center;
+    }
+    .card-body {
+      padding: 0 0 1rem 0;
+    }
+    .card-title {
+      color: $text-primary-color;
+      font-size: 1.1rem;
+      font-weight: 700;
+      margin-bottom: unset;
+    }
+
+    .card-subtitle {
+      color: $text-primary-color;
+      margin-top: unset;
+    }
+    box-shadow: unset;
+    border-radius: unset;
+    .card-img-top{
+      height: 300px;
+      .card-img {
+        border-radius: unset !important;
+        height: 100%;
+        object-fit: none;
+      }
+    }
+
+  }
+
+}
+.author-detail-page {
+  .about-entity {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-right: 1em;
+
+    .common-page-h1-title {
+      font-weight: 600;
+    }
+
+    .portrait-title {
+      h3 {
+        color: gray;
+        font-weight: 400;
+
+      }
+    }
+
+    .about-image {
+      object-fit: cover;
+      margin-bottom: 0.5rem
+    }
+    img.round {
+      border-radius: 50%;
+      border-radius: 10px;
+    }
+
+    .about-links {
+      display: flex;
+      justify-content: center;
+      flex-direction:row;
+      column-gap: .8em;
+      row-gap: 15px;
+      flex-wrap: wrap;
+
+      list-style: none;
+      padding: 0;
+
+      .about-link {
+        color: rgb(97.724137931, 109, 120.275862069);
+        text-decoration: none;
+        border: solid 1px;
+        font-size: .8em;
+        padding: .25em .5em;
+        border-radius: 4px;
+      }
+      .about-link-text {
+        margin-left: 0.2rem;
+      }
+    }
+  }
+
+  .about-contents {
+    border-left: solid 1px #dee2e6;
+    padding-left: 1.5em;
+  }
+
+}
+
+
+.home-our-work-wrap {
+  .card, img {
+    box-shadow: unset;
+    border-radius: unset;
+  }
+  .quarto-grid-item {
+    padding-bottom: 1rem;
+    height: 100%;
+    display: block;
+  }
+  .card-title {
+    color: $text-primary-color;
+    font-size: 1.1rem;
+    margin-bottom: unset;
+  }
+  .card-subtitle {
+    color: $text-primary-color;
+    margin-top: unset;
+    font-style: italic;
+  }
+
+  .card-img {
+    border-radius: unset !important;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .post-contents {
+    position: relative;
+    .date-wrap{
+      position: absolute;
+      bottom: 1rem;
+      right: 1rem;
+      .published-date {
+        text-transform: uppercase;
+        color: #6c757d;
+        font-size: .8em;
+        font-weight: 400;
+      }
+    }
+  }
+
+}
+
+
+
+
+.article {
+  .article-style {
+    h2 {
+      border-bottom: 1px solid #dee2e6;
+      padding-bottom: .5rem;
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+.nav-footer   {
+  padding: 5rem 0 1rem 0;
+
+  color: hsl(0, 0%, 46%);
+  .nav-footer-left {
+    font-size: .825em;
+  }
+   a {
+     text-decoration: underline;
+    color: hsl(0, 0%, 46%);
+  }
+}
+
+
+
+
+// 手机
+@media (max-width: 780px) {
+
+  .wg-about {
+    // h1 {
+    //  text-align: center;
+    //}
+  }
+  .research-list-wrap {
+    grid-template-columns: 1fr !important;
+  }
+
+
+  .home-section-about-lab{
+    .lab-left{
+      order: 2;
+    }
+    .lab-right{
+      order: 1;
+    }
+  }
+}

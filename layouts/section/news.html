@@ -1,0 +1,20 @@
+{{- define "main" -}}
+
+
+<div class="container news-list-page">
+
+  <div class="article-title  mt-4 mb-4  ">
+    <h1 class="mb-0 common-page-h1-title">{{ .Title | markdownify | emojify }}</h1>
+    {{ with .Params.subtitle }}<p class="mt-1 common-page-subtitle">{{ . | markdownify | emojify }}</p>{{ end }}
+  </div>
+
+  <ul class="news-list-wrap">
+  {{ $paginator := .Paginate .Pages }}
+  {{ range $index, $item := $paginator.Pages }}
+    {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+  {{end}}
+  </ul>
+  {{ partial "pagination" . }}
+</div>
+
+{{- end -}}

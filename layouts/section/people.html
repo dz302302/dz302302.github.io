@@ -1,0 +1,97 @@
+{{- define "main" -}}
+
+
+    {{/* Initialise */}}
+    {{ $block := index .Params.sections 0 }}
+    {{ $show_social := $block.design.show_social | default false }}
+    {{ $show_interests := $block.design.show_interests | default true }}
+    {{ $show_organizations := $block.design.show_organizations | default false }}
+    {{ $show_role := $block.design.show_role | default true }}
+
+<div class="container people-list-wrap">
+
+    {{ with $block.content.title }}
+      <div class="article-title  mt-4 mb-4  ">
+        <h1 class="mb-0 common-page-h1-title">{{ . | markdownify | emojify }}</h1>
+          {{ with $block.content.subtitle }}<p class="mt-1 common-page-subtitle">{{ . | markdownify | emojify }}</p>{{ end }}
+      </div>
+    {{ end }}
+
+
+
+      {{ range $block.content.user_groups }}
+          {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
+
+          {{/* Sort */}}
+          {{ $sort_by := $block.content.sort_by | default "Params.sort_order" }}
+          {{ $sort_ascending := $block.content.sort_ascending | default true }}
+          {{ $sort_order := cond $sort_ascending "asc" "desc" }}
+          {{ $query = sort $query $sort_by $sort_order }}
+
+
+          {{if $query | and (gt (len $block.content.user_groups) 1) }}
+            <div class="type_box list_box" style="flex:1;">
+              <div class="sub_cat_item" >
+                <div class="sc_hd">
+                  <h2 class="common-page-h2-title">{{ . | markdownify }}</h2>
+                </div>
+
+
+                <div class="sc_bd row">
+
+                      {{ range $query }}
+                          {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+                          {{/* Get link to user's profile page. */}}
+                          {{ $link := "" }}
+                          {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
+                              {{ $link = .RelPermalink }}
+                          {{ end }}
+
+                        <div class="col-12 col-md-3 ">
+                            {{ $src := "" }}
+                            {{ if $avatar }}
+                                {{ $src = $avatar.RelPermalink }}
+                            {{ end }}
+
+                          <a  href="{{ $link }}" class="member-a-link quarto-grid-item">
+                            <div class=" card h-100 card-center" >
+
+                            {{ if $src }}
+                              <div class=" card-img-top">
+                                <img  src="{{ $src }}" class="  card-img" />
+                              </div>
+                            {{ end }}
+
+                              <div class="card-body post-contents">
+                                <div class="no-anchor card-title listing-title">
+                                   {{ .Title }}
+                                </div>
+                                <div class="card-subtitle listing-subtitle">
+                                  {{ .Params.role }}
+                                </div>
+                              </div>
+
+                            </div>
+                          </a>
+
+
+
+                        </div>
+                      {{ end }}
+
+
+                </div>
+
+              </div>
+            </div>
+          {{end}}
+
+
+      {{ end }}
+
+</div>
+
+
+
+
+{{- end -}}

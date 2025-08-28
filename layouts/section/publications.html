@@ -1,0 +1,38 @@
+{{- define "main" -}}
+
+
+<div class="container publications-list-page">
+
+  <div class="article-title  mt-4 mb-4  ">
+    <h1 class="mb-0 common-page-h1-title">{{ .Title | markdownify | emojify }}</h1>
+    {{ with .Params.subtitle }}<p class="mt-1 common-page-subtitle">{{ . | markdownify | emojify }}</p>{{ end }}
+  </div>
+
+
+
+  <h2 class="common-page-h2-title">Since Joining ECNU:</h2>
+  <div class="publications-list-wrap">
+  {{ $pub_data := site.Data.publications.publications.since_join_ecnu }}
+  {{ $total_length := len $pub_data }}
+
+  {{ range $index, $item := $pub_data }}
+    {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index   "total_length"  $total_length ) }}
+  {{end}}
+  </div>
+
+
+  <h2 class="common-page-h2-title" style="padding-top: 2.5rem;">Prior to ECNU (only first/corresponding-author papers listed):</h2>
+  <div class="publications-list-wrap">
+  {{ $pub_data := site.Data.publications.publications.prior_to_ecnu }}
+  {{ $total_length := len $pub_data }}
+
+  {{ range $index, $item := $pub_data }}
+    {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index   "total_length"  $total_length ) }}
+  {{end}}
+  </div>
+
+
+
+</div>
+
+{{- end -}}

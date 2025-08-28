@@ -1,0 +1,14 @@
+---
+title: "Reactions Using Water as a Hydrogen Source and Medium"
+summary: "This study investigates catalytic reaction systems that utilize water as both a hydrogen source and a reaction medium, develops novel catalytic materials and processes, and explores their potential applications in sustainable energy conversion."
+date: 2023-07-12 
+# true 展示在首页 
+featured: true
+# 详情页面的 社交按钮图标 不展示 
+share: false
+---
+
+
+##  Overview
+
+Water can serve as a hydrogen source because it contains chemically bound hydrogen atoms (H₂O → H₂ + ½ O₂) that can be released through catalytic reactions such as water splitting, reforming, or hydrogen transfer. At the same time, water can act as a reaction medium because it is abundant, non-toxic, inexpensive, and able to dissolve or disperse reactants, often enabling environmentally friendly reaction conditions. This dual functionality allows researchers to develop novel catalytic materials and processes that integrate hydrogen generation with chemical transformations, supporting sustainable energy conversion by reducing fossil-fuel reliance and minimizing environmental impact.

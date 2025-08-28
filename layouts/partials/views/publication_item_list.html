@@ -1,0 +1,30 @@
+{{ $item := .item }}
+
+
+{{ $link := $item.RelPermalink }}
+{{ $target := "" }}
+{{ if $item.Params.external_link }}
+  {{ $link = $item.Params.external_link }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ end }}
+
+
+
+
+
+
+<div class="pub-list-item">
+
+  <span class="pub-index-number">[{{add 1 .index}}.] </span>
+  <span class="pub-author-text">{{$item.author | markdownify | emojify }}</span>
+  <span class="pub-title-text">{{$item.title | markdownify | emojify }}</span>
+  {{with $item.link}}<a href="." target="_blank" class="pub-item-link">{{end}}
+  {{with $item.journal}}<span class="pub-journal-text">{{. | markdownify | emojify }}</span>{{end}}
+  {{with $item.year}}<span class="pub-year-text">{{. | markdownify | emojify }}</span>{{end}}
+  {{with $item.doi}}<span class="pub-doi-text">DOI: {{. | markdownify | emojify }}</span>{{end}}
+  {{with $item.volume}}<span class="pub-volume-text">{{. | markdownify | emojify }}</span>{{end}}
+  {{with $item.pages}}<span class="pub-pages-text">{{. | markdownify | emojify }}</span>{{end}}
+  {{with $item.link}}</a>{{end}}
+  {{with $item.note}}<span class="pub-note-text">({{. | markdownify | emojify }})</span>{{end}}
+</div>
+
