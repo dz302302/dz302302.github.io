@@ -83,16 +83,14 @@ He worked as a Herchel Smith Postdoctoral Research Fellow with Prof. Jonathan R.
 
 2025 - | Professor, School of Chemistry and Molecular Engineering, East China Normal University, China
 
-2023 - 2024 | Postdoc RA C, Institute for Integrated Catalysis, Pacific Northwest National Laboratory, USA
-
-2020 - 2023 | Postdoc & Group leader, Lehrstuhl für Technische Chemie II, Technical University of Munich, Germany
+2017 - 2021 | Herchel Smith Research Fellow, University of Cambridge, UK
 
 ##  Education
 
-2015 - 2019 | Ph.D. in Chemical Engineering, University of Amsterdam, The Netherlands
+2013 - 2017 | Ph.D. in Supramolecular chemistry, ENS-Lyon, France
 
-2012 - 2015 | M.Sc. in Applied Chemistry, East China Normal University, China
+2011 - 2017 | Ph.D in Physical Chemistry, East China Normal University, China
 
-2008 - 2012 | B.Sc. in Applied Chemistry, Taiyuan University of Technology, China
+2007 - 2011 | B.Sc. in Applied Chemistry, Northeastern University, China
 
  
