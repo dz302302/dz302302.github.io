@@ -87,7 +87,7 @@ He worked as a Herchel Smith Postdoctoral Research Fellow with Prof. Jonathan R.
 
 ##  Education
 
-2013 - 2017 | Ph.D. in Supramolecular chemistry, ENS-Lyon, France
+2013 - 2017 | Ph.D. in Supramolecular Chemistry, ENS-Lyon, France
 
 2011 - 2017 | Ph.D in Physical Chemistry, East China Normal University, China
 
