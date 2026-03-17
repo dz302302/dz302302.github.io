@@ -11,8 +11,6 @@ lab_intro_image: "images/design/the-lab.jpg"
 lab_intro_title: "Confinement Materials: Harnessing Macrocycles & Cages in Supramolecular Chemistry"
 lab_intro: |
 
-  Catalyst design and synthesis, In-situ/operando characterization, Computational modeling
-
-  C1 chemistry, Biomass conversion, Plastic waste upcycling
+  Engineering confinement at the molecular level with macrocycles & cages for sensing, chemical separation, and catalysis
 
 ---
