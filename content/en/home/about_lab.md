@@ -8,7 +8,7 @@ widget_id: about_lab
 
 
 lab_intro_image: "images/design/the-lab.jpg"
-lab_intro_title: "Green Carbon Science: Heterogeneous Catalysis toward Carbon Neutrality"
+lab_intro_title: "Confinement Materials: Harnessing Macrocycles & Cages in Supramolecular Chemistry"
 lab_intro: |
 
   Catalyst design and synthesis, In-situ/operando characterization, Computational modeling
