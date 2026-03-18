@@ -1,7 +1,7 @@
 ---
 widget: about_lab
 headless: true
-weight: 10
+weight: 12
 title: About
 active: true
 widget_id: about_lab
